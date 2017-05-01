@@ -5,6 +5,7 @@ Description=Today
 Backup=$P\Bak\
 Group=1
 GroupExpand=1
+Res.rc=1
 [Files]
 1=Today.Asm
 2=Today.Inc
@@ -328,6 +329,7 @@ Menu=1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 271=,661,2,icons\_food\cupcake.ico
 272=,662,2,icons\_food\HotChocolate.ico
 273=,663,2,icons\_food\breakfast.ico
+274=,242,2,icons\_food\birthdaycake.ico
 [StringTable]
 [Accel]
 [VerInf]
@@ -373,6 +375,7 @@ AutoLoad=3,7,2,1,9,10,4,6
 3=
 4=
 10=
+9=
 [VersionControl]
 Settings=1279
 Milestones=129
@@ -407,7 +410,7 @@ ProductVer2Range=0
 ProductVer3Range=0
 ProductVer4Range=0
 [PTimer]
-PTimer=11803615
+PTimer=11865204
 [Collapse]
 8=
 7=
@@ -427,7 +430,7 @@ PTimer=11803615
 1=0,0,0,0,22042
 4=0,0,0,0,0
 10=0,0,0,0,26413
-9=0,0,0,0,65366
+9=0,0,0,0,32079
 11=0,0,0,0
 12=0,0,0,0,42056
 5=

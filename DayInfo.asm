@@ -188,7 +188,7 @@ ICO_1215                EQU 181; "icons/dec/12.15.TeaDay.ico"
 ICO_1225                EQU 240; "icons/dec/12.25.XmasdDay.ico"
 ICO_1229                EQU 241; "icons/dec/12.29.InternationalCelloDay.ico"
 
-
+ICO_X64DBG_BIRTHDAY     EQU 242
 
 
 ;ICO_PAUSE               EQU 999
@@ -531,7 +531,7 @@ DAYINFO <<05,15>,"International Day of Families",ICO_0515>
 DAYINFO <<05,17>,"World Telecommunication and Information Society Day",0>
 DAYINFO <<05,17>,"International Day Against Homophobia and Transphobia",0>
 DAYINFO <<05,17>,"Norway - Constitution Day, the signing of the first Norwegian Constitution in Eidsvoll 1814",ICO_COUNTRY_NORWAY>
-DAYINFO <<05,18>,"x64dbg day - first bitbucket commit of x64dbg by mrexodia on 18th May 2013",0>
+DAYINFO <<05,18>,"x64dbg day - first bitbucket commit of x64dbg by mrexodia on 18th May 2013",ICO_X64DBG_BIRTHDAY>
 DAYINFO <<05,18>,"World AIDS Vaccine Day",ICO_HIVAIDS>
 DAYINFO <<05,18>,"International AIDS Candlelight Memorial",ICO_HIVAIDS>
 DAYINFO <<05,18>,"International Museum Day",0>
