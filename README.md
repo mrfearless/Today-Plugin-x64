@@ -20,14 +20,15 @@ A plugin to lists days of interest: national, commemorative, awareness or intern
 ## Information
 
 Day entries compiled from the following links:
-https://en.wikipedia.org/wiki/List_of_commemorative_days
-https://en.wikipedia.org/wiki/List_of_environmental_dates
-https://en.wikipedia.org/wiki/List_of_food_days
-https://en.wikipedia.org/wiki/Lists_of_holidays
-https://en.wikipedia.org/wiki/List_of_unofficial_observances_by_date
-https://en.wikipedia.org/wiki/List_of_awareness_days
-https://en.wikipedia.org/wiki/National_day
-https://en.wikipedia.org/wiki/List_of_international_observances
+
+* https://en.wikipedia.org/wiki/List_of_commemorative_days
+* https://en.wikipedia.org/wiki/List_of_environmental_dates
+* https://en.wikipedia.org/wiki/List_of_food_days
+* https://en.wikipedia.org/wiki/Lists_of_holidays
+* https://en.wikipedia.org/wiki/List_of_unofficial_observances_by_date
+* https://en.wikipedia.org/wiki/List_of_awareness_days
+* https://en.wikipedia.org/wiki/National_day
+* https://en.wikipedia.org/wiki/List_of_international_observances
 
 Apologies in advance if any information is incorrect.
 
