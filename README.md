@@ -1,6 +1,6 @@
 # Today Plugin (x64) - A Plugin For x64dbg
 
-![](https://github.com/mrfearless/Today-Plugin-x64/blob/master/images/Today.png) [Current version: 1.0.0.0 - Last updated: 01/05/2017](https://github.com/mrfearless/Today-Plugin-x64/releases/latest) For the x86 version of this plugin, visit [here](https://github.com/mrfearless/Today-Plugin-x86)
+![](https://github.com/mrfearless/Today-Plugin-x64/blob/master/images/today.png) [Current version: 1.0.0.0 - Last updated: 01/05/2017](https://github.com/mrfearless/Today-Plugin-x64/releases/latest) For the x86 version of this plugin, visit [here](https://github.com/mrfearless/Today-Plugin-x86)
 
 ## Overview
 
