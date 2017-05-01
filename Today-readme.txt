@@ -48,6 +48,8 @@ Apologies in advance if any information is incorrect.
 
 Please note: Not all entries have an icon. Not all days have an entry. Some days have multiple entries. Some days have multiple icons.
 
+The plugin contains 267 unique icons and 1012 unique day entries.
+
 
 Notes
 -----
