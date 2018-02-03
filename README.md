@@ -37,6 +37,7 @@ Please note: Not all entries have an icon. Not all days have an entry. Some days
 The plugin contains 267 unique icons and 1012 unique day entries.
 
 * Written by [fearless](https://github.com/mrfearless)  - [www.LetTheLight.in](http://www.LetTheLight.in)
+* Icons from [Icon8.com](www.icons8.com)
 * Created with the [x64dbg Plugin SDK For x64 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler)
 * A RadASM project (.rap) is used to manage and compile the plugin. The RadASM IDE can be downloaded [here](http://www.softpedia.com/get/Programming/File-Editors/RadASM.shtml)
 * Some plugins make use of the MASM32 SDK found [here](http://www.masm32.com/masmdl.htm)
